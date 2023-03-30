@@ -1,0 +1,1 @@
+web: gunicorn InstaTracker.wsgi --log-file -
