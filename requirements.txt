@@ -1,4 +1,0 @@
-Django==4.1.7
-instaloader==4.9.6
-djangorestframework==3.14.0
-mysqlclient==2.1.1
